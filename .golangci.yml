@@ -12,4 +12,3 @@ linters-settings:
 linters:
   enable:
     - forbidigo
-    - unused
